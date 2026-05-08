@@ -1,3 +1,3 @@
-## Hello git
+## Yoo i am Yaryara and im very good at coding
 
-- I'm adding this from `feature-branch`
+- I AM the best cs2 player
